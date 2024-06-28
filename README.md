@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hayan Ahmad
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning Progamming With Python
+- 🌱 I’m currently learning Progamming for IOI
 - 👔 I’m currently studying at SundarSTEM School
 
 <!---
